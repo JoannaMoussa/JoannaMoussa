@@ -3,7 +3,7 @@
 
 ## About Me 💁🏻‍♀️
 My path into the world of Web Development wasn't paved by a traditional academic route, but rather by a burning curiosity and the desire to create meaningful online interactions. Proficient in both Front-End and Back-End development, employing a tech stack encompassing JavaScript/React and Python/Django, my heart beats slightly faster for front-end magic. I find joy in translating ideas into visually captivating and user-friendly interfaces!
-Currently seeking a junior position where I can contribute my skills and grow!
+Currently seeking a web development opportunity where I can contribute my skills and grow!
 
 ## My Skills 📜
 ### Front-End
